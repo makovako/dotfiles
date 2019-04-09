@@ -110,10 +110,17 @@ alias de='docker exec -it'
 alias dce='docker-compose exec'
 alias dcu='docker-compose up'
 alias dcd='docker-compsoe down'
+alias dcb='docker-compose build'
 
 # vim aliases
 alias v='vim'
 alias sv='sudo vim'
+alias vb='vim ~/.bashrc'
+
+# git aliases
+alias ga='git add'
+alias gc='git commit'
+alias gp='git push'
 
 # Shortcuts for school projects
 alias pa036='cd ~/Skola/pa036/PA036'
