@@ -103,6 +103,14 @@ alias ...='cd ../..'
 alias ....='cd ../../..'
 alias .....='cd ../../../..'
 
+# docker aliases
+alias d='docker'
+alias dc='docker-compose'
+alias de='docker exec -it'
+alias dce='docker-compose exec'
+alias dcu='docker-compose up'
+alias dcd='docker-compsoe down'
+
 # vim aliases
 alias v='vim'
 alias sv='sudo vim'
