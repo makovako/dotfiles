@@ -109,7 +109,7 @@ alias dc='docker-compose'
 alias de='docker exec -it'
 alias dce='docker-compose exec'
 alias dcu='docker-compose up'
-alias dcd='docker-compsoe down'
+alias dcd='docker-compose down'
 alias dcb='docker-compose build'
 
 # vim aliases
