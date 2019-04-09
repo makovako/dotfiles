@@ -115,6 +115,10 @@ alias dcd='docker-compsoe down'
 alias v='vim'
 alias sv='sudo vim'
 
+# Shortcuts for school projects
+alias pa036='cd ~/Skola/pa036/PA036'
+alias iv122='Skola/iv122/IV122-2019'
+
 # other aliases
 alias mkdir='mkdir -pv'
 
