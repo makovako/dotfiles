@@ -109,6 +109,7 @@ alias dc='docker-compose'
 alias de='docker exec -it'
 alias dce='docker-compose exec'
 alias dcu='docker-compose up'
+alias dcr='docker-compose up'
 alias dcd='docker-compose down'
 alias dcb='docker-compose build'
 
@@ -126,9 +127,18 @@ alias gp='git push'
 
 # tmux aliases
 alias tn='tmux new -s'
+alias tc='tmux new -s'
 alias tl='tmux list-sessions'
 alias ta='tmux attach -t'
 alias ts='tmux switch -t'
+
+# apt aliases
+alias sau='sudo apt update'
+alias saf='sudo apt full-upgrade'
+alias sai='sudo apt install'
+alias saau='sudo apt autoremove'
+alias sai='sudo apt install'
+alias as='apt search'
 
 # Shortcuts for school projects
 alias pa036='cd ~/Skola/pa036/PA036'
