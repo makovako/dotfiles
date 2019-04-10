@@ -116,11 +116,19 @@ alias dcb='docker-compose build'
 alias v='vim'
 alias sv='sudo vim'
 alias vb='vim ~/.bashrc'
+alias vv='vim ~/.vimrc'
+alias vt='vim ~/.tmux.conf'
 
 # git aliases
 alias ga='git add'
 alias gc='git commit'
 alias gp='git push'
+
+# tmux aliases
+alias tn='tmux new -s'
+alias tl='tmux list-sessions'
+alias ta='tmux attach -t'
+alias ts='tmux switch -t'
 
 # Shortcuts for school projects
 alias pa036='cd ~/Skola/pa036/PA036'
