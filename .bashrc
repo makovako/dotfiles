@@ -112,6 +112,7 @@ alias dcu='docker-compose up'
 alias dcr='docker-compose up'
 alias dcd='docker-compose down'
 alias dcb='docker-compose build'
+alias dcud='docker-compose up -d'
 
 # vim aliases
 alias v='vim'
