@@ -148,6 +148,7 @@ alias as='apt search'
 # Shortcuts for school projects
 alias pa036='cd ~/Skola/pa036/PA036'
 alias iv122='cd ~/Skola/iv122/IV122-2019'
+alias diplomka='cd ~/Skola/diplomka'
 
 # other aliases
 alias mkdir='mkdir -pv'
