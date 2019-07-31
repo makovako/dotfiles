@@ -92,7 +92,7 @@ fi
 #export GCC_COLORS='error=01;31:warning=01;35:note=01;36:caret=01;32:locus=01:quote=01'
 
 # some more ls aliases
-alias ll='ls -alF'
+alias ll='ls -alhF'
 alias la='ls -A'
 alias l='ls -CF'
 
@@ -152,7 +152,7 @@ alias diplomka='cd ~/Skola/diplomka'
 
 # other aliases
 alias mkdir='mkdir -pv'
-
+alias cpv='rsync -ah --info=progress2'
 
 export VISUAL=vim
 export EDITOR="$VISUAL"
