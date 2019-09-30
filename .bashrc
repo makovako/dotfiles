@@ -141,6 +141,7 @@ alias ts='tmux switch -t'
 # apt aliases
 alias sau='sudo apt update'
 alias saf='sudo apt full-upgrade'
+alias safu='sudo apt full-upgrade'
 alias sai='sudo apt install'
 alias saar='sudo apt autoremove'
 alias sar='sudo apt remove'
